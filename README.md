@@ -62,4 +62,3 @@ Luego de analizar todos los factores, se concluye que **la Tienda 4** es la que 
 - Python 3.8+
 - Pandas, Matplotlib, Google Colab (recomendado)
 
----
